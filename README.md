@@ -1,5 +1,5 @@
 
-<img src="C:\Users\User\Downloads\Banner.png" />
+<img src="C:\Users\User\Downloads\Banner.png" width="500" />
 <h1 align="center">Hi 👋, I'm Eman Abd El-Hamed</h1>
 <h3 align="center">Engineering Student intersted in Embedded System</h3>
 
