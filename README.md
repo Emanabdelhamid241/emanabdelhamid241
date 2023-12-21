@@ -1,4 +1,4 @@
-<img src="https://github.com/Emanabdelhamid241/emanabdelhamid241/blob/main/Cavar.png" width="500" />
+<img src="https://github.com/Emanabdelhamid241/emanabdelhamid241/blob/main/Cavar.png"  />
 <h1 align="center">Hi 👋, I'm Eman Abd El-Hamed Saad</h1>
 <h3 align="center">CSE student intersted in Embedded System</h3>
 
